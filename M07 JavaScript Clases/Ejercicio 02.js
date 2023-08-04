@@ -41,7 +41,7 @@ function agregarMetodo() {
          return propiedades;
    }
    }
-
+   
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
